@@ -48,83 +48,6 @@
 			"typeName": "page"
 		},
 		{
-			"id": "pointer:pointer",
-			"typeName": "pointer",
-			"x": 50.33333587646481,
-			"y": 498.000005086263,
-			"lastActivityTimestamp": 1738347559919,
-			"meta": {}
-		},
-		{
-			"followingUserId": null,
-			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:color": "black",
-				"tldraw:geo": "rectangle"
-			},
-			"brush": null,
-			"scribbles": [],
-			"cursor": {
-				"type": "default",
-				"rotation": 0
-			},
-			"isFocusMode": false,
-			"exportBackground": true,
-			"isDebugMode": false,
-			"isToolLocked": false,
-			"screenBounds": {
-				"x": 0,
-				"y": 0,
-				"w": 592,
-				"h": 566
-			},
-			"insets": [
-				false,
-				false,
-				true,
-				false
-			],
-			"zoomBrush": null,
-			"isGridMode": false,
-			"isPenMode": false,
-			"chatMessage": "",
-			"isChatting": false,
-			"highlightedUserIds": [],
-			"isFocused": true,
-			"devicePixelRatio": 1.5,
-			"isCoarsePointer": false,
-			"isHoveringCanvas": true,
-			"openMenus": [],
-			"isChangingStyle": false,
-			"isReadonly": false,
-			"meta": {},
-			"duplicateProps": null,
-			"id": "instance:instance",
-			"currentPageId": "page:page",
-			"typeName": "instance"
-		},
-		{
-			"editingShapeId": null,
-			"croppingShapeId": null,
-			"selectedShapeIds": [],
-			"hoveredShapeId": null,
-			"erasingShapeIds": [],
-			"hintingShapeIds": [],
-			"focusedGroupId": null,
-			"meta": {},
-			"id": "instance_page_state:page:page",
-			"pageId": "page:page",
-			"typeName": "instance_page_state"
-		},
-		{
-			"x": -4.9999999999999645,
-			"y": -333.3333333333333,
-			"z": 1,
-			"meta": {},
-			"id": "camera:page:page",
-			"typeName": "camera"
-		},
-		{
 			"x": 106.66667175292969,
 			"y": 53.80208206176758,
 			"rotation": 0,
@@ -515,6 +438,226 @@
 			},
 			"parentId": "page:page",
 			"index": "aD10M",
+			"typeName": "shape"
+		},
+		{
+			"id": "pointer:pointer",
+			"typeName": "pointer",
+			"x": 763.0152649200224,
+			"y": 857.279099777191,
+			"lastActivityTimestamp": 1738419671073,
+			"meta": {}
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "default",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 592,
+				"h": 566
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1.5,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:8XlYXkLd5acPFyYQkwHU3"
+			],
+			"hoveredShapeId": "shape:8XlYXkLd5acPFyYQkwHU3",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": -36.472900162886894,
+			"y": -421.35368092290963,
+			"z": 0.7294825817585535,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"x": 184.8940275171944,
+			"y": 673.3838860926513,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Oq7nenqc_ZWP5INgZa1Ti",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 119.02083587646484,
+				"text": "types.d.ts",
+				"font": "draw",
+				"textAlign": "middle",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aE7qU",
+			"typeName": "shape"
+		},
+		{
+			"x": 372.2092966514928,
+			"y": 669.7765234410084,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ky3yTsYUIrR8yHcEdTstH",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 502.25,
+				"text": "This is global type we arre fining \nthis is the type will be and \ndon;t know the value but it willbe there",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aF7gx",
+			"typeName": "shape"
+		},
+		{
+			"x": 121.03161320063532,
+			"y": 793.1019690719779,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:u6Fcb9es8W66MXnHhmwqN",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 642.4166870117188,
+				"text": "const MONGODB_URI = process.env.MONGODB_URI!",
+				"font": "draw",
+				"textAlign": "middle",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aGCM2",
+			"typeName": "shape"
+		},
+		{
+			"x": 1079.2213195265163,
+			"y": 826.2068198098251,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:8XlYXkLd5acPFyYQkwHU3",
+			"type": "arrow",
+			"props": {
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": -317.5337225816645,
+					"y": -12.33751185436654
+				},
+				"end": {
+					"x": -311.63646632303136,
+					"y": 125.20291202249587
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"text": "",
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aH0Ub",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:nwi89Tvlf5lS6-dBZtamG",
+			"type": "arrow",
+			"fromId": "shape:8XlYXkLd5acPFyYQkwHU3",
+			"toId": "shape:u6Fcb9es8W66MXnHhmwqN",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.9957093073225625,
+					"y": 0.6410496386842066
+				},
+				"terminal": "start"
+			},
+			"typeName": "binding"
+		},
+		{
+			"x": 508.0400199297825,
+			"y": 946.1785329325232,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:qYb35fZQcwzyRP7-TAr89",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 325.5520935058594,
+				"text": "you will get mongoodb uri",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aI6mo",
 			"typeName": "shape"
 		}
 	]
