@@ -52,6 +52,8 @@ export async function POST(request:NextRequest){
     }
 }
 
+
+
 //from the frontend we donlike this 
 
 // const res= fetch("/api/auth.register",{

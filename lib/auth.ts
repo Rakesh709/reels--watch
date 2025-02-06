@@ -70,10 +70,27 @@ export const authOptions: NextAuthOptions={
             return session
         }
     },
+    pages:{
+        signIn:"/login",
+        error: "./login"
+    },
     session:{
-        strategy:"jwt"
-    }
+        strategy:"jwt",
+        maxAge:30*24*60*60
+    },
+    secret:process.env.NEXTAUTH_SECRET
 }
+
+
+
+
+
+
+
+
+
+
+
 
 // strategy as database bhi hota hai ki session database mai store krna hai ya token
 
