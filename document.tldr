@@ -2359,11 +2359,64 @@
 			"typeName": "shape"
 		},
 		{
+			"meta": {},
+			"id": "page:o8SUPmzioqXPkFoOJJPAv",
+			"name": "Nextjs with Imagekit",
+			"index": "a4ALw",
+			"typeName": "page"
+		},
+		{
+			"x": 80.33333587646484,
+			"y": 57.80208206176758,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:egHBJIzwVci_3hfdmtc37",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 471.1145935058594,
+				"text": "what ever we are writing in api that \nis the backend",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:o8SUPmzioqXPkFoOJJPAv",
+			"index": "a1",
+			"typeName": "shape"
+		},
+		{
+			"x": 78.33333587646484,
+			"y": 135.80209732055664,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:uydQMZdvSSN6cG4X5XqLa",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 367.51043701171875,
+				"text": "api kai bahr sab frontend hai",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:o8SUPmzioqXPkFoOJJPAv",
+			"index": "a29ou",
+			"typeName": "shape"
+		},
+		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 187.66211409664803,
-			"y": 287.61966080011405,
-			"lastActivityTimestamp": 1738924941148,
+			"x": 393.5,
+			"y": 145.5,
+			"lastActivityTimestamp": 1739006172075,
 			"meta": {}
 		},
 		{
@@ -2384,7 +2437,7 @@
 				"x": 0,
 				"y": 0,
 				"w": 365.3333435058594,
-				"h": 458
+				"h": 566
 			},
 			"insets": [
 				false,
@@ -2408,7 +2461,7 @@
 			"meta": {},
 			"duplicateProps": null,
 			"id": "instance:instance",
-			"currentPageId": "page:o8SUPmzioqXPkFoOJJPAv",
+			"currentPageId": "page:lusyEDxosA4NFEX2pgxBs",
 			"typeName": "instance"
 		},
 		{
@@ -2461,6 +2514,19 @@
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
 			"meta": {},
+			"id": "instance_page_state:page:o8SUPmzioqXPkFoOJJPAv",
+			"pageId": "page:o8SUPmzioqXPkFoOJJPAv",
+			"typeName": "instance_page_state"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
 			"id": "instance_page_state:page:page",
 			"pageId": "page:page",
 			"typeName": "instance_page_state"
@@ -2490,6 +2556,14 @@
 			"typeName": "camera"
 		},
 		{
+			"x": -15.786194820320365,
+			"y": 319.10685083017614,
+			"z": 0.57911415915055,
+			"meta": {},
+			"id": "camera:page:o8SUPmzioqXPkFoOJJPAv",
+			"typeName": "camera"
+		},
+		{
 			"x": 140.39728264065926,
 			"y": 257.2704831911027,
 			"z": 0.4736301101113381,
@@ -2498,77 +2572,102 @@
 			"typeName": "camera"
 		},
 		{
+			"x": 79.10128970940998,
+			"y": -16.426929511636672,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
 			"meta": {},
-			"id": "page:o8SUPmzioqXPkFoOJJPAv",
-			"name": "Nextjs with Imagekit",
-			"index": "a4ALw",
+			"id": "shape:poil0cBebm6wi5fR9YMX3",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 382.10418701171875,
+				"text": "app/api/imagekit-auth/route.ts",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:o8SUPmzioqXPkFoOJJPAv",
+			"index": "a370O",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:lusyEDxosA4NFEX2pgxBs",
+			"name": "frontend(Component)",
+			"index": "a562U",
 			"typeName": "page"
 		},
 		{
-			"x": 103.0569018950363,
-			"y": 158.3376687158123,
-			"z": 0.5904900000000001,
+			"x": -232.49999999999997,
+			"y": 7.5,
+			"z": 1,
 			"meta": {},
-			"id": "camera:page:o8SUPmzioqXPkFoOJJPAv",
+			"id": "camera:page:lusyEDxosA4NFEX2pgxBs",
 			"typeName": "camera"
 		},
 		{
-			"editingShapeId": null,
+			"editingShapeId": "shape:0W8NEcgFpDEWF_jkWCBfr",
 			"croppingShapeId": null,
-			"selectedShapeIds": [],
-			"hoveredShapeId": null,
+			"selectedShapeIds": [
+				"shape:0W8NEcgFpDEWF_jkWCBfr"
+			],
+			"hoveredShapeId": "shape:0W8NEcgFpDEWF_jkWCBfr",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
 			"meta": {},
-			"id": "instance_page_state:page:o8SUPmzioqXPkFoOJJPAv",
-			"pageId": "page:o8SUPmzioqXPkFoOJJPAv",
+			"id": "instance_page_state:page:lusyEDxosA4NFEX2pgxBs",
+			"pageId": "page:lusyEDxosA4NFEX2pgxBs",
 			"typeName": "instance_page_state"
 		},
 		{
-			"x": 80.33333587646484,
-			"y": 57.80208206176758,
+			"x": 46.00001525878906,
+			"y": 85.13541793823242,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
 			"meta": {},
-			"id": "shape:egHBJIzwVci_3hfdmtc37",
+			"id": "shape:Ap2hR3H8xHK9yXH8mKc6u",
 			"type": "text",
 			"props": {
 				"color": "black",
 				"size": "m",
-				"w": 471.1145935058594,
-				"text": "what ever we are writing in api that \nis the backend",
+				"w": 314.44793701171875,
+				"text": "components/Providers.tsx",
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
-				"scale": 1
+				"scale": 0.5950574689217505
 			},
-			"parentId": "page:o8SUPmzioqXPkFoOJJPAv",
+			"parentId": "page:lusyEDxosA4NFEX2pgxBs",
 			"index": "a1",
 			"typeName": "shape"
 		},
 		{
-			"x": 78.33333587646484,
-			"y": 135.80209732055664,
+			"x": 137.00001525878906,
+			"y": 105.80209732055664,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
 			"meta": {},
-			"id": "shape:uydQMZdvSSN6cG4X5XqLa",
+			"id": "shape:0W8NEcgFpDEWF_jkWCBfr",
 			"type": "text",
 			"props": {
 				"color": "black",
 				"size": "m",
-				"w": 367.51043701171875,
-				"text": "api kai bahr sab frontend hai",
+				"w": 584.7083740234375,
+				"text": "frontend so \"use Client --> else eroro in nextjs",
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
 				"scale": 1
 			},
-			"parentId": "page:o8SUPmzioqXPkFoOJJPAv",
-			"index": "a29ou",
+			"parentId": "page:lusyEDxosA4NFEX2pgxBs",
+			"index": "a26qU",
 			"typeName": "shape"
 		}
 	]
