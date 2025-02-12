@@ -39,8 +39,8 @@ class ApiClient{
 
     //method 
 
-    async getVideo(){
-        return this.fetch<IVideo>("/videos")
+    async getVideos(){
+        return this.fetch<IVideo[]>("/videos")
         //in return we will get complete response 
     }
 
