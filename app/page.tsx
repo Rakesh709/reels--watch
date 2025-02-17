@@ -26,7 +26,7 @@ export default function Home() {
 
   return (
     <div>
-      <h1>ChaiCode</h1>
+      <Home/>
     </div>
     
   );
